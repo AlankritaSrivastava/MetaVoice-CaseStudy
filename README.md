@@ -4,12 +4,12 @@
 This project focuses on designing and implementing a scalable data pre-processing pipeline for audio data. The primary goal is to transcribe and tokenize audio files and store the processed data in an organized manner. The pipeline utilizes AWS S3 for storage, the Whisper ASR (Automatic Speech Recognition) model for transcription, and custom audio tokenization.
 
 ## Prerequisites (Necessary Packages)
-•	NumPy
-•	PyTorch
-•	Whisper (for ASR)
-•	Boto3 (for AWS S3 interactions)
-•	Pandas
-•	PyArrow (for Parquet file handling)
+1. Numpy
+2. PyTorch
+3. Whisper (for ASR)
+4. Boto3 (for AWS S3 interactions)
+5. Pandas
+6. PyArrow (for Parquet file handling)
 
 ## Pipeline Overview
 The project consists of Python code that performs the following tasks:
