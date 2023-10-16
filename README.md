@@ -14,7 +14,7 @@ This project focuses on designing and implementing a scalable data pre-processin
 ## Pipeline Overview
 The project consists of Python code that performs the following tasks:
 
-**1. Tokenization Function:**
+**Tokenization Function:**
 *'tokenise' is a function that takes a NumPy array representing an audio file as input and returns a random 1D tensor with dtype int16 and variable length in the range (20, 1000).
 *	The function includes input validation to ensure the input is a NumPy array.
 *	A time delay is added to simulate model inference.
