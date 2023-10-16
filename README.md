@@ -40,4 +40,4 @@ The project consists of Python code that performs the following tasks:
 *	This partitioning allows granular access to audio transformations based on both date and time.
 
 
-**By partitioning the data based on "FolderName" and timestamps, the pipeline allows access to audio transformations at different granularities of time, providing flexibility for various analytical needs.**
+**By partitioning the data based on FolderName and Date Timestamps, the pipeline allows access to audio transformations at different granularities of time, providing flexibility for various analytical needs.**
